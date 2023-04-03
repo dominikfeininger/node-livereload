@@ -19,7 +19,7 @@
     "main": "./lib/livereload.js",
     "dependencies": {
         "chokidar": "^3.5.0",
-        "livereload-js": "git@github.com:dominikfeininger/livereload-js.git",
+        "livereload-js": "git+ssh://git@github.com:dominikfeininger/livereload-js.git",
         "opts": ">= 1.2.0",
         "ws": "^7.4.3"
     },
